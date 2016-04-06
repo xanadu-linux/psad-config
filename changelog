@@ -1,0 +1,11 @@
+commit 2df8b400b86629f2f98cad7bd2eae2d66cd27d61 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Apr 5 21:40:24 2016 -0430
+
+    * se agrega la configuracion de psad
+
+commit c08e9fba61a998524cbef0b1c84c219a7716d673
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Tue Apr 5 21:39:09 2016 -0430
+
+    Initial commit
