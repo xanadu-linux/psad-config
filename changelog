@@ -1,10 +1,22 @@
-commit 15474271cbbecae753bf04011b63611cb39dd983 (HEAD, origin/master, origin/HEAD, master)
+commit 64513785c90c6ef7dfd55290223774bd38de4999 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Jul 24 21:19:20 2017 -0400
+
+    * se actualiza el archivo de configuracion
+
+commit 4d5e907b358a46ed51d60c6acfe878c255345021
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Apr 17 20:52:57 2016 -0430
+
+    * changelog
+
+commit 15474271cbbecae753bf04011b63611cb39dd983
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Apr 17 20:52:48 2016 -0430
 
     * zenodo
 
-commit 59ea413afdff0fa021a0725565a6326c3e42e8b7
+commit 59ea413afdff0fa021a0725565a6326c3e42e8b7 (tag: v0.1.1)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Apr 9 11:48:49 2016 -0430
 
